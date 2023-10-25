@@ -5,7 +5,7 @@ import React from 'react';
 
 const Isamon96Profile = () => {
   return (
-    <div>
+    <section>
       <h1>👋 Hi, I'm @isamon96</h1>
       <p>👀 I'm currently working on developing cutting-edge web and mobile applications, with a focus on creating seamless user experiences.</p>
       <p>🌱 I'm currently learning and expanding my skills in software development, with a particular emphasis on JavaScript, React.js, and other front-end technologies.</p>
@@ -16,7 +16,7 @@ const Isamon96Profile = () => {
         <li>Email: <a href="mailto:imondragon920@gmail.com">imondragon920@gmail.com</a></li>
       </ul>
       <p>🤯 Fun fact: Lately, I've been obsessed with Clusterduck, a super fun game all about evolving ducks.</p>
-    </div>
+    </section>
   );
 };
 
