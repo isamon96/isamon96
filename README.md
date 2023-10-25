@@ -1,3 +1,5 @@
+![Isabela's Profile](./portada.gif)
+
 - 👋 Hi, I'm @isamon96
 
 - 👀 I'm currently working on developing cutting-edge web and mobile applications, with a focus on creating seamless user experiences.
